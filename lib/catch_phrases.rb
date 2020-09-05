@@ -15,4 +15,4 @@ def toadstool
 end
 
 def link 
-  Phrase = ""
+  Phrase = 
